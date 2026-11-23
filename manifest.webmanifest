@@ -1,0 +1,9 @@
+{
+  "name": "AB AI",
+  "short_name": "AB AI",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#080d18",
+  "theme_color": "#080d18",
+  "icons": []
+}
